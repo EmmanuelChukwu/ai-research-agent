@@ -1,0 +1,14 @@
+langchain
+langgraph
+openai
+tiktoken
+pinecone-client
+python-dotenv
+arxiv
+google-search-results
+pydantic
+rich
+langchain-openai
+wikipedia
+reportlab
+streamlit
