@@ -1,13 +1,10 @@
 arxiv==2.4.1
 langchain==1.2.10
-langchain_classic==1.0.1
-langchain_community==0.4.1
-langchain_core==1.2.17
-langchain_openai==1.1.10
-langchain_pinecone==0.2.13
-langchain_text_splitters==1.1.1
+langchain-community==0.4.1
+langchain-openai==1.1.10
+langchain-pinecone==0.2.13
+pinecone-client>=7.0.0,<8.0.0
 langgraph==1.0.10
-pinecone==5.5.0
 python-dotenv==1.2.2
 reportlab==4.4.10
 streamlit==1.54.0
