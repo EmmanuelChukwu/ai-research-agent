@@ -10,3 +10,4 @@ reportlab==4.2.5
 streamlit==1.43.2
 wikipedia==1.4.0
 google-search-results
+langchain-classic
