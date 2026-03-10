@@ -303,13 +303,25 @@ Modify `app/graphs/research_graph.py` to change the agent workflow and decision-
 - **API Costs**: Deep research uses more API calls; monitor usage
 - **Vector Database**: Initialize with relevant documents for better RAG performance
 
-## License
-
-[Add license information here]
-
 ## Support & Contributions
 
-For issues, questions, or contributions, please [add contact/contribution guidelines].
+### Issues & Bug Reports
+
+Report issues and bugs on [GitHub Issues](https://github.com/EmmanuelChukwu/ai-research-agent/issues)
+
+### Contributing
+
+Contributions are welcome! Please:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+### Contact
+
+For questions or inquiries, contact: emmschuks18@gmail.com
 
 ---
 
