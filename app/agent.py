@@ -4,7 +4,7 @@ from app.tools.web_search import web_search
 from app.tools.calculator import calculator
 from app.tools.wikipedia_tool import wikipedia_search
 from app.tools.summarizer import summarize_text
-from langchain_classic.agents import create_tool_calling_agent, AgentExecutor
+from langchain.agents import AgentExecutor, create_tool_calling_agent
 from langchain_core.prompts import ChatPromptTemplate
 from app.config.llm import get_llm
 from app.tools.dummy_tool import get_current_year

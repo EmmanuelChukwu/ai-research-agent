@@ -4,7 +4,7 @@ from app.memory_manager import load_memory, save_memory, clear_memory
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 from io import BytesIO
-from langchain_classic.memory import ConversationBufferMemory
+from langchain.memory import ConversationBufferMemory
 
 # ---------- Page Config ----------
 st.set_page_config(
