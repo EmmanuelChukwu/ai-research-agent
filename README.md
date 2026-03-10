@@ -2,6 +2,9 @@
 
 An intelligent research assistant powered by LLMs and LangGraph that performs comprehensive research tasks, retrieves information from multiple sources, and generates structured research reports.
 
+## Live Demo
+https://emmanuelchukwu-ai-research-agent-app-streamlit-vlvtep.streamlit.app/
+
 ## Overview
 
 The AI Research Agent is a sophisticated automation tool designed to conduct autonomous research using multiple data sources and analytical tools. It combines large language models (LLMs) with retrieval-augmented generation (RAG), web search, academic databases, and specialized tools to provide comprehensive, well-sourced answers to research queries.
